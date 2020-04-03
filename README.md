@@ -1,0 +1,2 @@
+# permikomnas
+berkas permikomnas
